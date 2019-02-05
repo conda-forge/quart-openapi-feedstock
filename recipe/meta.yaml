@@ -1,6 +1,6 @@
 {% set name = "quart-openapi" %}
-{% set version = "1.3.8" %}
-{% set sha256 = "b55412baee7499c87843347879bfabdad25a5acfae3f28bc00155e25c9e19a53" %}
+{% set version = "1.4.3" %}
+{% set sha256 = "08644252e39c3072ded6eca8ae844a5abdd1f7a2f2b8a2b455c85bbe64ec2999" %}
 
 package:
   name: {{ name|lower }}
